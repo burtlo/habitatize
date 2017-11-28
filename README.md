@@ -27,7 +27,7 @@ $ hab studio enter
 $ build
 $ hab pkg export docker YOURORG/habitatize
 $ exit
-$ docker run -p 8000:8000 YOURORG/habitatize
+$ docker run -p 9000:9000 YOURORG/habitatize
 ```
 
 
